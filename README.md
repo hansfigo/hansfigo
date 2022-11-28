@@ -8,8 +8,37 @@
 </h1>
 
 <h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking, Curently Studying Dart, C++, and Flutter. <br></br>Next Goal : PHP, Javascript </a>.</h4>
+<div align ="center">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
+</a>
+</div>
 
-<p align="center">
+
+## Profile
+
+* Curently Student of informatic System at Amikom Yogyakarta University
+* Interested in Software Engineering, Fullstack Developer & Cyber Security
+
+<h2 class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                   <h2>
+                                Favorites Anime
+                            </h2>
+			    <div class="characters">
+				<img src="https://cdn.myanimelist.net/images/anime/11/55225.jpg" width="180" height="270" alt="" />
+				<img src="https://cdn.myanimelist.net/images/anime/3/75617.jpg" width="180" height="270" alt="" />
+				<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
+			    </div>
+                                </svg>
+				
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
          alt="Gitter">
@@ -21,28 +50,9 @@
   <a href="https://www.paypal.me/AmitMerchant">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
-</p>
+</p> -->
 
 
-## Profile
-
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
 
 <!-- ## How To Use
 
