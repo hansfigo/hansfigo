@@ -26,10 +26,10 @@
 * Hobby :  Collecting Anime BD, Studying about Computer, Painting.
 
 
-<div align="center">
+<div>
 	<br>
 	<a>
-		<img src="anime.list.svg" width="800" height="400" alt="Click to see the source">
+		<img src="anime.list.svg" width="500" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
