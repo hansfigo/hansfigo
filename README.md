@@ -1,6 +1,10 @@
 ### Hi Mom 
 ### i'm on GitHub 😎
 
+![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
+![C++](https://img.shields.io/badge/C++-black.svg?style=flat&logo=c%2B%2B)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=lat&logo=git&logoColor=white)&nbsp;
+
 <!--
 **hansfigo/hansfigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
