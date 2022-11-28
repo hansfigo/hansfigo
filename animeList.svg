@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+<svg fill="none" height="400">
+<!-- 	<foreignObject width="100%" height="100%">
 			<div>
 				<h2 class="field">
 					Favorites Anime
@@ -10,4 +10,5 @@
 					<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
 				</div>
 			</div>
-	</foreignObject>
+	</foreignObject> -->
+</svg>
