@@ -3,11 +3,11 @@
   <br>
 <!--   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a> -->
   <br>
-  Hi Mom, Im on Github
+  Hi Mom, I'm on Github
   <br>
 </h1>
 
-<h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Curently Studying Dart and CPP</a>.</h4>
+<h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking, Curently Studying Dart, C++, and Flutter. <br></br>Next Goal : PHP, Javascript </a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -23,18 +23,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
-## Key Features
+## Profile
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
@@ -54,7 +44,7 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-## How To Use
+<!-- ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -124,4 +114,4 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
+ -->
