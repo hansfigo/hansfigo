@@ -29,22 +29,7 @@
 
 
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-<!-- 			<style></style> -->
-			<div>
-				<h2 class="field">
-					Favorites Anime
-				</h2>
-				<div class="characters">
-					<img src="https://cdn.myanimelist.net/images/anime/11/55225.jpg" width="180" height="270" alt="" />
-					<img src="https://cdn.myanimelist.net/images/anime/3/75617.jpg" width="180" height="270" alt="" />
-					<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
-				</div>
-			</div>
-		</div>
-	</foreignObject>
+
 
 
 
