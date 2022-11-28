@@ -1,7 +1,15 @@
-<svg fill="none" height="400" width"800" xmlns="http://www.w3.org/2000/svg">
-<!-- 	<foreignObject width="100%" height="100%">
+
+<!-- <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
 			<div>
-				<h2 class="field">
+				
+	</foreignObject> -->
+
+
+    <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<h2 class="field">
 					Favorites Anime
 				</h2>
 				<div class="characters">
@@ -9,6 +17,6 @@
 					<img src="https://cdn.myanimelist.net/images/anime/3/75617.jpg" width="180" height="270" alt="" />
 					<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
 				</div>
-			</div>
-	</foreignObject> -->
+		</div>
+	</foreignObject>
 </svg>

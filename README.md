@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">
   <br>
   <br>
@@ -20,9 +17,6 @@
     </a>
   </div>
 
-  <div >
-    <img src="animeList.svg" width="400" height="400" alt="">
-</div>
 
 
 ## Profile
@@ -30,6 +24,15 @@
 * Curently Student of informatic System at Amikom Yogyakarta University
 * Interested in Software Engineering, Fullstack Developer & Cyber Security
 * Hobby :  Collecting Anime BD, Studying about Computer, Painting.
+
+
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="./animeList.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
 
 
