@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
 <!--   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a> -->
@@ -8,14 +7,19 @@
 </h1>
 
 <h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking, Curently Studying Dart, C++, and Flutter. <br></br>Next Goal : PHP, Javascript </a>.</h4>
-<div align ="center">
+
+</svg>
+<div align ="center" width = "200" height="200">
+<!-- TOP LANG STATS	 -->
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
 </a>
+<!-- STATS GITHUB 	 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
 </a>
 </div>
+
 
 
 ## Profile
@@ -23,18 +27,29 @@
 * Curently Student of informatic System at Amikom Yogyakarta University
 * Interested in Software Engineering, Fullstack Developer & Cyber Security
 
-<h2 class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                   <h2>
-                                Favorites Anime
-                            </h2>
-			    <div class="characters">
-				<img src="https://cdn.myanimelist.net/images/anime/11/55225.jpg" width="180" height="270" alt="" />
-				<img src="https://cdn.myanimelist.net/images/anime/3/75617.jpg" width="180" height="270" alt="" />
-				<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
-			    </div>
-                                </svg>
-				
+
+
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+<!-- 			<style></style> -->
+			<div>
+				<h2 class="field">
+					Favorites Anime
+				</h2>
+				<div class="characters">
+					<img src="https://cdn.myanimelist.net/images/anime/11/55225.jpg" width="180" height="270" alt="" />
+					<img src="https://cdn.myanimelist.net/images/anime/3/75617.jpg" width="180" height="270" alt="" />
+					<img src="https://cdn.myanimelist.net/images/anime/9/87197.jpg" width="180" height="270" alt="" />	
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+
+
+
+		
+			
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo)](https://github.com/anuraghazra/github-readme-stats) -->
 
