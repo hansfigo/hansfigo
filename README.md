@@ -5,30 +5,31 @@
 <h1 align="center">
   <br>
   <br>
-  Hi Mom, I'm on Github Hehe
+  Hi Mom, I'm on Github 
   <br>
 </h1>
 
 <h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking, Curently Studying Dart, C++, and Flutter. <br></br>Next Goal : PHP, Javascript </a>.</h4>
 
-</svg>
-<div align ="center" width = "200" height="200">
-<!-- TOP LANG STATS	 -->
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
-</a>
-<!-- STATS GITHUB 	 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
-</a>
-</div>
+  <div align ="center" width = "200" height="200">
+    <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
+    </a>
+  </div>
 
+  <div >
+    <img src="animeList.svg" width="400" height="400" alt="">
+</div>
 
 
 ## Profile
 
 * Curently Student of informatic System at Amikom Yogyakarta University
 * Interested in Software Engineering, Fullstack Developer & Cyber Security
+* Hobby :  Collecting Anime BD, Studying about Computer, Painting.
 
 
 
