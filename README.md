@@ -3,10 +3,35 @@
   <br>
   <br>
   Hi Mom, I'm on Github 
+	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="60" height="60">
+	
   <br>
 </h1>
 
-<h4 align="center">Hello im Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking, Curently Studying Dart, C++, and Flutter. <br></br>Next Goal : PHP, Javascript </a>.</h4>
+
+<h3 align="center">Hello i'm Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking.</h3>
+<h3 align="center">Currently Studying : </h3>
+
+<div align="center">
+	
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
+![Dart](https://img.shields.io/badge/dart-darkblue.svg?style=flat&logo=dart)&nbsp;
+![Dart](https://img.shields.io/badge/flutter-blue.svg?style=flat&logo=flutter)&nbsp;
+	
+</div>
+
+
+<h3 align="center">Next Goal : </h3>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+	
+</div>
+
+
+
 
   <div align ="center" width = "200" height="200">
     <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
