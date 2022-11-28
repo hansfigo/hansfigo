@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">Hello i'm Figo, I'm Madoka Magica Super Fan, Interested in Software Engineering and Ethical Hacking.</h3>
+<h3 align="center">Hello i'm Figo, I'm Madoka Magica SuperFan, Interested in Software Engineering and Ethical Hacking.</h3>
 <h3 align="center">Currently Studying : </h3>
 
 <div align="center">
