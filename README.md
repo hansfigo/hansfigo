@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">Hello i'm Figo, I'm Madoka Magica SuperFan, Interested in Software Engineering and Ethical Hacking.</h3>
+<h3 align="center">Hello i'm Figo, I'm Madoka Magica SuperFan, Interested in Software Engineering and System Security.</h3>
 <h3 align="center">Currently Studying : </h3>
 
 <div align="center">
@@ -27,6 +27,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
+![Processing](https://img.shields.io/badge/processing-blue.svg?style=flat&logo=processing2)&nbsp;	
 	
 </div>
 
