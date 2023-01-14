@@ -32,14 +32,12 @@
 </div>
 
 
-
-
   <div align ="center" width = "200" height="200">
-    <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
+    <a align="center" href="https://github.com/hansfigo/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=radical" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
+    <a href="https://github.com/hansfigo/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=radical" />
     </a>
   </div>
 
