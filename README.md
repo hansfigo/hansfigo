@@ -28,16 +28,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
 ![Processing](https://img.shields.io/badge/processing-blue.svg?style=flat&logo=processing2)&nbsp;	
+
+	
 	
 </div>
 
 
   <div align ="center" width = "200" height="200">
     <a align="center" href="https://github.com/hansfigo/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&theme=radical" />
+      <img align="center" src="https://github-readme-stats-xn39.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
     </a>
     <a href="https://github.com/hansfigo/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansfigo&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
     </a>
   </div>
 
