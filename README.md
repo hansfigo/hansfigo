@@ -14,9 +14,12 @@
 
 <div align="center">
 	
-![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)&nbsp;
-![Dart](https://img.shields.io/badge/dart-darkblue.svg?style=flat&logo=dart)&nbsp;
-![Dart](https://img.shields.io/badge/flutter-blue.svg?style=flat&logo=flutter)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+	
 	
 </div>
 
@@ -24,14 +27,15 @@
 <h3 align="center">Next Goal : </h3>
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
-![Processing](https://img.shields.io/badge/processing-blue.svg?style=flat&logo=processing2)&nbsp;	
-
+	
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 	
 	
 </div>
+
 
 
   <div align ="center" width = "200" height="200">
