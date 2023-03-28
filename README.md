@@ -36,17 +36,21 @@
 	
 </div>
 
+## Stats
 
-
-  <div align ="center" width = "200" height="200">
+  <div width = "200" height="200">
     <a align="center" href="https://github.com/hansfigo/github-readme-stats">
       <img align="center" src="https://github-readme-stats-xn39.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
     </a>
-    <a href="https://github.com/hansfigo/github-readme-stats">
+  </div>
+  
+  <div width = "100" height="200" >
+	  <a href="https://github.com/hansfigo/github-readme-stats">
       <img align="center" src="https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
     </a>
-  </div>
 
+  </div>
+	
 
 
 ## Profile
