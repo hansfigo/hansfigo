@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">Hello i'm Figo, I'm Madoka Magica SuperFan, Interested in Software Engineering and System Security.</h3>
+<h3 align="center">I just love building app</h3>
 <h3 align="center">Currently Studying/Using : </h3>
 
 <div align="center">
