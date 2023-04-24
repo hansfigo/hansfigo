@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">I just love building app</h3>
+<h4 align="center">I just love building things 🤖</h4>
 <h3 align="center">Currently Studying/Using : </h3>
 
 <div align="center">
@@ -19,6 +19,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 	
 	
 </div>
@@ -30,30 +31,33 @@
 	
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 	
 	
 </div>
 
-## Stats
+## My Github Stats 🥴
 
+
+  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo)
+
+<!--   
   <div width = "200" height="200">
     <a align="center" href="https://github.com/hansfigo/github-readme-stats">
       <img align="center" src="https://github-readme-stats-xn39.vercel.app/api/top-langs/?username=hansfigo&theme=transparent" />
     </a>
   </div>
-  
   <div width = "100" height="200" >
 	  <a href="https://github.com/hansfigo/github-readme-stats">
       <img align="center" src="https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent" />
     </a>
 
-  </div>
+  </div> -->
 	
 
 
-## Profile
+## Profile 🤓
 
 * Curently Student of informatic System at Amikom Yogyakarta University
 * Interested in Software Engineering, Fullstack Developer & Cyber Security
@@ -94,7 +98,7 @@
 </p> -->
 
 
-%
+
 <!-- ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
