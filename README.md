@@ -36,7 +36,7 @@
 	
 </div>
 
-## My Github Stats 🥴
+## My Github Stats 
 
 
   [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo)
@@ -57,7 +57,7 @@
 	
 
 
-## Profile 🤓
+## Profile 
 
 * Curently Student of informatic System at Amikom Yogyakarta University
 * Interested in Software Engineering, Fullstack Developer & Cyber Security
