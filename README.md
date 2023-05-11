@@ -9,7 +9,7 @@
 </h1>
 
 
-<h4 align="center">I just love building things 🤖</h4>
+<h4 align="center">I have a borderline unhealthy obsession with building things, especially when it comes to coding.</h4>
 <h3 align="center">Currently Studying/Using : </h3>
 
 <div align="center">
