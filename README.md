@@ -42,6 +42,11 @@
 
 <br>
 
+## Spagetti Projects 
+ - [Hnzbyte Blog](blog-figo.vercel.app)
+ - [Mikifix](mikiflix.vercel.app)
+ 
+
 ## My Github Stats 
 
   [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo)
