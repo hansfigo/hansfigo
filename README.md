@@ -11,11 +11,10 @@
 <h4 align="center">I have a borderline unhealthy obsession with building things, especially when it comes to coding.</h4>
 <br>
 
-<hr>
 <br>
-<h3 align="">Currently Studying/Using : </h3>
+<h2 align="">Currently Studying/Using : </h3>
 
-<div align="">
+<br>
 	
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -24,24 +23,26 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23f1413d.svg?style=for-the-badge&logo=Astro&logoColor=white)
+
 <br>	
-</div>
 
-<hr>
+
 <br>
-<h3 align="">Next Goal : </h3>
 
-<div align="">
+<h2 align="">Next Goal : </h3>
+
+<br>
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+	
 </div>
 <br>
-<hr>
 
 <br>
 
-### My Github Stats 
+## My Github Stats 
 
   [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo)
@@ -62,11 +63,6 @@
 
 <br>
 
-## Profile 
-
-* Curently Student of informatic System at Amikom Yogyakarta University
-* Interested in Software Engineering, Fullstack Developer & Cyber Security
-* Hobby :  Collecting Anime BD, Studying about Computer, Painting.
 
 
 <div>
