@@ -1,20 +1,13 @@
 
 <h1 align="center">
-  <br>
-  <br>
   	Hi Mom, I'm on Github 
 	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="60" height="60">
-  <br>
-	
 </h1>
-<br>
 <h4 align="center">I have a borderline unhealthy obsession with building things, especially when it comes to coding.</h4>
 <br>
 
-<br>
 <h2 align="">Currently Studying/Using : </h3>
 
-<br>
 	
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -27,25 +20,22 @@
 <br>	
 
 
-<br>
 
 <h2 align="">Next Goal : </h3>
 
-<br>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 	
-</div>
 <br>
 
-<br>
 
 ## Spagetti Projects 
  - [Hnzbyte Blog](blog-figo.vercel.app)
  - [Mikifix](mikiflix.vercel.app)
  
+<br>
 
 ## My Github Stats 
 
