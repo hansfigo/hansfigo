@@ -41,6 +41,8 @@
 
   [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo)
+  ![Visitor](https://count.getloli.com/get/@:hansfigo)
+
 
 <!--   
   <div width = "200" height="200">
