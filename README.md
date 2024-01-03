@@ -41,9 +41,9 @@
 <br>
 
 
-## Spagetti Projects 
- - [Hnzbyte Blog](blog-figo.vercel.app)
- - [Mikifix](mikiflix.vercel.app)
+## Spaghetti Projects
+- [Hnzbyte Blog](https://blog-figo.vercel.app)
+- [Mikifix](https://mikiflix.vercel.app)
  
 <br>
 
