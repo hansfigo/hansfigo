@@ -23,12 +23,12 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h3>Listen to my favorite tracks 🎧</h3>
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xfh2gj98yefngjy8h67m0l80c&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile">
   </a>
-</div>
+</div> -->
 
 <br>
 
