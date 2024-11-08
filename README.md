@@ -2,7 +2,11 @@
    I LOVE DIS 👇
 </h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
+ <img src="./momo.gif"/>
+</div>
+
+<div align="center">
   <img src="https://c.tenor.com/1na2F_ub4iEAAAAd/tenor.gif
   " style="width: 560; height: 190px; object-fit: cover;">
 
