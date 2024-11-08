@@ -49,7 +49,7 @@
 
 ## Oh, right... a bit about me 
 
-Hey there! I love building apps, jamming to vocaloid songs (definitely not robots singing), and diving into pop culture.
+Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.
 
 
 <br>
