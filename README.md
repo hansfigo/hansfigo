@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  	Hi Mom, I'm on Github 
-	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="60" height="60">
+  	I LIKE THIS 👇
 </h1>
 
 <div align="center">
