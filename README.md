@@ -47,9 +47,12 @@
 <br>
 <br>
 
-## Oh, right... a bit about me 
+<h2>Oh, right... a bit about me</h2> 
 
-Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.
+<div>
+   <img src="https://i.makeagif.com/media/8-09-2020/y6dmdx.gif" />
+   <p>Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.</p>
+</div>
 
 
 <br>
