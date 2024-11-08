@@ -50,8 +50,8 @@
 <h2>Oh, right... a bit about me</h2> 
 
 <div>
-   <img src="https://i.makeagif.com/media/8-09-2020/y6dmdx.gif" />
-   <p>Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.</p>
+   <h4>Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.</h4>
+   <img src="https://c.tenor.com/TB3QH6vTYS8AAAAd/tenor.gif" width="100%" />
 </div>
 
 
