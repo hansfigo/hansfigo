@@ -47,6 +47,7 @@
 <br>
 <br>
 
+<!-- 
 <h2>Oh, right... a bit about me</h2> 
 
 <div>
@@ -57,7 +58,8 @@
 
 <br>
 <br>
-
+-->
+<!-- 
 ### 🚀 Tech Stack 
 <table align="center">
    <tr>
@@ -91,7 +93,7 @@
       </td>
    </tr>
 </table>
-
+-->
 
 <br>
 <br>
