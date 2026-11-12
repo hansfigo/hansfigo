@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
- <img src="./phos-collage.gif"/>
+ <img src="./phos-collage.gif" width="100%"/>
 </div>
 
 <br>

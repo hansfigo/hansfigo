@@ -6,7 +6,7 @@ Gambar diambil dari phos/ (urut nama), layout sama kayak make_collage.py.
 import glob, math
 from PIL import Image, ImageOps
 
-SCALE = 0.65                      # kecilin biar ukuran GIF ga bengkak
+SCALE = 0.8                      # kecilin biar ukuran GIF ga bengkak
 W, GAP, BG = round(790 * SCALE), 6, (13, 17, 23)
 ROWS = [(210, [1]), (145, [1, 2.1, 1]), (185, [1.5, 1.25, 1.2]), (180, [1, 1.3]), (190, [1])]
 CENTER = {0: (0.5, 0.1)}          # fokus crop per slot
