@@ -15,7 +15,7 @@ SIG1 = [(0, 9), (1, 3), (4, 6), (7, 8), (2, 5)]
 SIG2 = [(0, 2), (1, 4), (3, 6), (5, 8), (7, 9)]
 BEATS = [SIG1, SIG2, SIG2, SIG1]       # involusi -> kembali ke awal
 BEAT, DUR, FRAME_MS = 16, 9, 60        # frame per beat, lama transisi, ms per frame
-SHAKE, FLASH = 6, 0.45
+SHAKE, FLASH = 6, 0.0
 
 def cover(img, w, h, c=(0.5, 0.5)):
     return ImageOps.fit(img.convert("RGB"), (w, h), Image.LANCZOS, centering=c)
@@ -104,7 +104,7 @@ for f in range(total):
                 t.paste(old, (0, -off)); t.paste(new, (0, h * d - off))
         elif fx == 2:                                       # zoom-blink
             k = math.sin(math.pi * p)
-            t = white(zoom(old if p < .5 else new, 1 + 0.6 * k), 0.7 * k)
+            t = white(zoom(old if p < .5 else new, 1 + 0.6 * k), 0.0)
         else:                                               # glitch
             t = glitch(old if p < .5 else new, max(1, round(10 * math.sin(math.pi * p))), rnd)
         canvas.paste(t, (x, y))
