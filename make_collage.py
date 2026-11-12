@@ -17,8 +17,10 @@ ROWS = [
     (190, [1]),                  # banner bawah
 ]
 
-def cover(img, w, h):
-    return ImageOps.fit(img.convert("RGB"), (w, h), Image.LANCZOS)
+CENTER = {0: (0.5, 0.1)}  # index gambar -> titik fokus crop (x, y); banner atas naik biar kepala ga kepotong
+
+def cover(img, w, h, c=(0.5, 0.5)):
+    return ImageOps.fit(img.convert("RGB"), (w, h), Image.LANCZOS, centering=c)
 
 files = sorted(sum((glob.glob(f"phos/*.{e}") for e in ("png", "jpg", "jpeg", "webp")), []))
 if not files:
@@ -35,7 +37,7 @@ for h, weights in ROWS:
     ws[-1] = avail - sum(ws[:-1])
     x = GAP
     for w in ws:
-        tile = cover(Image.open(files[k]), w, h)
+        tile = cover(Image.open(files[k]), w, h, CENTER.get(k, (0.5, 0.5)))
         canvas.paste(tile, (x, y))
         x += w + GAP
         k += 1
