@@ -1,114 +1,47 @@
-
 <h1 align="center">
-  	BEST GIRL👇
+  🛐 MY ONE AND ONLY 👇
 </h1>
 
-<p align="center">
-   The one and only best girl! 💖
-</p>
-
 <div align="center">
- <img src="./momo.gif"/>
+ <img src="./phos-collage-morph.gif" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xfh2gj98yefngjy8h67m0l80c&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-<!-- ## 10 Reasons Why Momo Ayase is BEST GIRL
-
-1. **Superpowers and brains?** She's got both! #brainsandbeauty
-2. Ghost believer, alien skeptic. A unique combo that's oddly endearing.
-3. A badass fighter who can kick any ghost or alien's butt.
-4. **Fashion Queen** – Her outfits are always on point! ✨
-5. A loyal friend who's always there for her squad. ❤️
-6. Her reactions? Absolutely priceless.
-7. She’s unapologetically herself.
-8. Her relationship with Okarun is pure goals.
-9. Always striving to learn and grow.
-10. She’s just plain cool. 😎 -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <p align="center">
-   <em>"Plz don’t boo mee, I know I’m not a pro."</em>
+  <em>"I'm not a pro, but I'm in love."</em>
 </p>
 
 <br>
-<br>
 
-<!-- 
-<h2>Oh, right... a bit about me</h2> 
-
-<div>
-   <h4>Hey there! I love building apps, jamming to robot songs (vocaloid), and diving into pop culture.</h4>
-   <img src="https://c.tenor.com/TB3QH6vTYS8AAAAd/tenor.gif" width="100%" />
-</div>
-
-
-<br>
-<br>
--->
-<!-- 
-### 🚀 Tech Stack 
-<table align="center">
-   <tr>
-      <td align="center" width="96">
-         <img src="https://img.icons8.com/color/2x/javascript.png" width="48" height="48"/>
-         <br>JavaScript
-      </td>
-       <td align="center" width="96">
-         <img src="https://img.icons8.com/color/2x/typescript.png" width="48" height="48"/>
-         <br>TypeScript
-      </td>
-      <td align="center" width="96">
-         <img src="https://img.icons8.com/fluency/2x/node-js.png" width="48" height="48"/>
-         <br>Node.js
-      </td>
-       <td align="center" width="96">
-         <img src="https://img.icons8.com/fluency/2x/tailwind_css.png" width="48" height="48"/>
-         <br>Tailwind
-      </td>
-      <td align="center" width="96">
-         <img src="https://img.icons8.com/color/2x/vue-js.png" width="48" height="48"/>
-         <br>Vue
-      </td>
-      <td align="center" width="96">
-         <img src="https://img.icons8.com/color/2x/react-native.png" width="48" height="48"/>
-         <br>React
-      </td>
-      <td align="center" width="96">
-         <img src="https://iconape.com/wp-content/png_logo_vector/svelte-logo-by-gengns.png" width="48" height="48"/>
-         <br>Svelte
-      </td>
-   </tr>
-</table>
--->
-
-<br>
-<br>
-
-### 📊 My Github Stats 
+## 📊 My GitHub Stats
 
 ![Visitor](https://count.getloli.com/get/@:hansfigo)
 
-| [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo) |
+| [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=hansfigo&show_icons=true&theme=transparent)](https://github.com/hansfigo/hansfigo) | [![Top Langs](https://github-readme-stats-xn39.vercel.app/api/top-langs/?username=hansfigo&layout=compact&langs_count=8&theme=transparent)](https://github.com/hansfigo/hansfigo) |
 | --- | --- |
 
+<br>
 
+<br>
 
+## 🚀 Tech Stack
 
-
-	
-
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
