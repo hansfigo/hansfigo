@@ -1,7 +1,7 @@
 """Bikin collage layout (kayak momo.gif) dari gambar statis di folder phos/.
 
 Pakai:  python3 make_collage.py            -> hasil: phos-collage.png
-Taruh 12 gambar di phos/ (urut nama file: 01.png, 02.jpg, ...).
+Taruh 10 gambar di phos/ (urut nama file: 01.png, 02.jpg, ...).
 Kalau kurang dari 12, sisanya diulang dari awal.
 """
 import glob, os
@@ -13,7 +13,7 @@ ROWS = [
     (210, [1]),                  # banner atas
     (145, [1, 2.1, 1]),
     (185, [1.5, 1.25, 1.2]),
-    (180, [1, 0.9, 1.4]),
+    (180, [1, 1.3]),
     (190, [1]),                  # banner bawah
 ]
 
